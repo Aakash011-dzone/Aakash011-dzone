@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, 👋 I am Aakash Jagzap, an Information Technology Student from India 🇮🇳
 
-<!--
-**Aakash011-dzone/Aakash011-dzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech Information Technology Student (SPPU)
+- 💻 Backend, Cloud & AI Enthusiast
+- ☁️ AWS Cloud, Docker & FastAPI
+- 🤖 Interested in Machine Learning, Generative AI & Agentic AI
+- 📊 Data Science Intern @ Softcrowd Technologies
+- 🚀 Building real-world Backend & AI projects
+- 🌱 Learning in public and contributing to Open Source
+- 🎯 Aspiring Backend / Cloud / AI Engineer
 
-Here are some ideas to get you started:
+## 💻 Tech I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, SQL, C++
+- **Backend & AI:** FastAPI, Machine Learning, Generative AI
+- **Cloud & Tools:** AWS, PostgreSQL, Git, GitHub, Docker, Linux
+
+## 📫 Connect With Me
+
+📧 Email: **jagzapaakash@gmail.com**
+
+💼 LinkedIn: **https://linkedin.com/in/aakash-jagzap**
+
+🐙 GitHub: **https://github.com/Aakash011-dzone**
